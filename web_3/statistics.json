@@ -1,0 +1,34 @@
+{
+  "baidu_request" : {
+    "transaction" : "baidu_request",
+    "sampleCount" : 3,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 43.666666666666664,
+    "medianResTime" : 32.0,
+    "minResTime" : 26.0,
+    "maxResTime" : 73.0,
+    "pct1ResTime" : 73.0,
+    "pct2ResTime" : 73.0,
+    "pct3ResTime" : 73.0,
+    "throughput" : 5.347593582887701,
+    "receivedKBytesPerSec" : 13.039981617647058,
+    "sentKBytesPerSec" : 0.6057820855614973
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 3,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 43.666666666666664,
+    "medianResTime" : 32.0,
+    "minResTime" : 26.0,
+    "maxResTime" : 73.0,
+    "pct1ResTime" : 73.0,
+    "pct2ResTime" : 73.0,
+    "pct3ResTime" : 73.0,
+    "throughput" : 5.347593582887701,
+    "receivedKBytesPerSec" : 13.039981617647058,
+    "sentKBytesPerSec" : 0.6057820855614973
+  }
+}

@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732889274851,73,baidu_request,200,OK,auto_request 1-1,text,true,,2497,116,1,1,http://www.baidu.com/,67,0,45
+1732889275050,26,baidu_request,200,OK,auto_request 1-2,text,true,,2497,116,1,1,http://www.baidu.com/,26,0,14
+1732889275380,32,baidu_request,200,OK,auto_request 1-3,text,true,,2497,116,1,1,http://www.baidu.com/,32,0,17
